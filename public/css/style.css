@@ -1,0 +1,52 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+    padding: 60px 15px 0;
+  }
+
+.margen{
+    margin-top: 100px;
+}
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+body{
+  font-family: 'Bebas Neue', cursive;
+}
+.margen{
+  margin-top: 100px;
+}
+.a{
+  margin-left: 33%;
+  margin-right: 33%;
+  margin-top: 15%;
+  background-color: rgb(102, 97, 93);
+  color: rgb(201, 167, 15);
+  opacity: 0.75;
+}
+.imge{
+  background-image: url(0491c1b5-3106-4f2f-9cf1-a61e1d76515d_alta-libre-aspect-ratio_default_0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(18, 20, 39, 0.582);
+  background-blend-mode: soft-light;
+}
+.amarillo{
+  color: rgb(201, 167, 15);
+}
+.libro{
+  background-image: url(1678-libros.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(18, 20, 39, 0.582);
+  background-blend-mode: soft-light;
+}
+.top{
+  margin-top: 15%;
+}
