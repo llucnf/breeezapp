@@ -13,7 +13,9 @@
             esto es de la ramaaaaaa 1
         </h2>
             </div>
-        
+            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+                kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+            </h2>
     </div>
     
 </x-app-layout>
