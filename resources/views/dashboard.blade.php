@@ -9,7 +9,9 @@
     <div class="py-12">
         
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                @yield('tablaPlatos')
+              <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+            esto es de la ramaaaaaa 1
+        </h2>
             </div>
         
     </div>
